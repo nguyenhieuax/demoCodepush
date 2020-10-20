@@ -7,9 +7,9 @@
     "test": "jest"
   },
   "dependencies": {
-    "appcenter": "^2.1.0",
-    "appcenter-analytics": "^2.1.0",
-    "appcenter-crashes": "^2.1.0",
+    "appcenter": "2.6.1",
+    "appcenter-analytics": "2.6.1",
+    "appcenter-crashes": "2.6.1",
     "i18next": "^17.0.13",
     "react": "16.8.3",
     "react-i18next": "^9.0.10",
